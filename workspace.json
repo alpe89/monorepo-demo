@@ -1,6 +1,7 @@
 {
   "version": 2,
   "projects": {
+    "design-system": "libs/design-system",
     "landing": "apps/landing",
     "landing-e2e": "apps/landing-e2e"
   }

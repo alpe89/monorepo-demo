@@ -1,4 +1,7 @@
 {
   "version": 2,
-  "projects": {}
+  "projects": {
+    "landing": "apps/landing",
+    "landing-e2e": "apps/landing-e2e"
+  }
 }

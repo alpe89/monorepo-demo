@@ -1,14 +1,8 @@
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
-import styles from './app.module.css';
-import NxWelcome from './nx-welcome';
+import { DesignSystem } from '@monorepo-demo/design-system';
 
 export function App() {
-  return (
-    <>
-      <NxWelcome title="landing" />
-      <div />
-    </>
-  );
+  return <DesignSystem />;
 }
 
 export default App;
